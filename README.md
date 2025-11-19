@@ -85,13 +85,8 @@
       </td>
     </tr>
   </table>
-
-<img src="" width="100%"/>
-<img src="" width="100%"/>
-<img src="" width="100%"/>
-<img src="" width="100%"/>
-<img src="" width="100%"/>
-
+  <br><br>
+  
   ## Contribution Stats
   <!-- 
     Github: https://github.com/Platane/snk
@@ -110,7 +105,8 @@
    <a href="https://github.com/thc282">
     <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=thc282&theme=react&area=true&radius=16" alt="thc282's github activity graph"/>
   </a>
-
+  <br><br>
+  
   ## 👀 Visitors
   <!-- 
     Github: https://github.com/journey-ad/Moe-Counter
